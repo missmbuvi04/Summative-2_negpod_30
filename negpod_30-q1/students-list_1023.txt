@@ -2,4 +2,10 @@ d.cyubahiro1@alustudent.com, 30, 202
 b.mugwadi1@alustudent.com, 30, 2020
 l.mabelebel@alustudent.com, 21, 101
 a.mukarwema@alustudent.com, 21, 181
+<<<<<<< Updated upstream
 m.mbuvi@alustudent.com, 26, 77772
+=======
+gedward15@alustudent.com, 28, 4rwrr232
+gedward15@alustudent.com, 16, 200
+gedward15@alustudent.com, 25, 1122
+>>>>>>> Stashed changes
