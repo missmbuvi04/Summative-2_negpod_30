@@ -25,7 +25,8 @@ while true; do
         3)
             echo "Enter student ID to delete:"
             read delete_id
-            sed -i "/$delete_id/d" students-list_1023.txt
+           sed -i "0,/^.*$delete_id\$/s///" students-list_1023.txt
+
             ;;
         4)
             echo "Enter student ID to update:"
